@@ -1,1 +1,2 @@
 this file created in master branch
+updating file1 in new branch
