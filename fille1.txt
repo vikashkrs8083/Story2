@@ -1,1 +1,2 @@
 this file created in master branch
+adding extra line in master branch after creation of newbranch
